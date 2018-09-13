@@ -1,0 +1,2 @@
+# fyttapp
+IOS > 8
